@@ -17,8 +17,7 @@
 
 
 <img src="captures/8.png">
-<img src="captures/9.png">
-<img src="captures/10.png">
+
 <img src="captures/11.png">
 <img src="captures/12.png">
 <img src="captures/13.png">
